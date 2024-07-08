@@ -13,8 +13,8 @@ import java.util.List;
 /**
  * 查询评分结果请求
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://www.code-nav.cn">编程导航学习圈</a>
+ * @author song
+ * @from song
  */
 @EqualsAndHashCode(callSuper = true)
 @Data
